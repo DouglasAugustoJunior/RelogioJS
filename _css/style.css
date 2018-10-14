@@ -1,0 +1,18 @@
+body{
+    background-color: #000;
+    text-align: center;
+    font: bold 30px Arial;
+    color: #fff;
+}
+#relogio{
+    margin: 0;
+    color: #f90;
+    padding: 50px;
+}
+footer{
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    font-size: 20px;
+    text-align: right;
+}
