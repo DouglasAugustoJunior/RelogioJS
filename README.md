@@ -7,7 +7,7 @@
  
 O **Relógio JS** é um projeto simples que utilizei para aprimorar meus conhecimentos em JS.
 
-![Imagem](https://github.com/DouglasAugustoJunior/)
+![Imagem](https://github.com/DouglasAugustoJunior/RelogioJS/blob/master/_images/App.PNG?raw=true)
 
 Desenvolvido em HTML5,CSS3 e JS, ele traz uma forma de exibir um relógio com o Date().
  
