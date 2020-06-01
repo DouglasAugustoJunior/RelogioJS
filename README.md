@@ -1,13 +1,13 @@
 
 #[Douglas Augusto](http://github.com/DouglasAugustoJunior)- Outros projetos. # 
  
-![VERSÃO DO SW](https://img.shields.io/badge/Version-1.0-blue.svg)
+![VERSÃO DO SW](https://img.shields.io/badge/Version-1.1-blue.svg)
  
 ![LINGUAGEM FINALIDADE](https://img.shields.io/badge/javascript-test-orange.svg)
  
-O **Relógio JS** é um projeto simples que utilizei para aprimorar meus conhecimentos em JS.
+O **Relógio JS** é um projeto simples que utilizei para aprimorar meus conhecimentos em JS. **[Projeto Online](https://douglasaugustojunior.github.io/RelogioJS/)**
 
-![Imagem](https://github.com/DouglasAugustoJunior/RelogioJS/blob/master/_images/App.PNG?raw=true)
+![Imagem](https://github.com/DouglasAugustoJunior/RelogioJS/blob/master/images/App.PNG?raw=true)
 
 Desenvolvido em HTML5,CSS3 e JS, ele traz uma forma de exibir um relógio com o Date().
  
